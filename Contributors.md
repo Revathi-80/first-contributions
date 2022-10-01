@@ -8,7 +8,7 @@
 - [Abhay](https://github.com/abhay1704)
 - [VictorAugDB](https://github.com/VictorAugDB)
 - [Sergio Garcia](https://github.com/sgarciagallego)
-- [Revathi P](https://github.com/Revathi-80)
+- [Revathi](https://github.com/Revathi-80)
 - [Nancy Chaudhry](https://github.com/chaudhryna)
 - [Turry](https://github.com/Oh-Turry)
 - [Kieran Brady] (https://github.com/kb1107)
